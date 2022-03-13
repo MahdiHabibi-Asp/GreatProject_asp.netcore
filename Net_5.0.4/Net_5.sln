@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net_5", "Net_5\Net_5.csproj", "{94A72D73-F86D-4F70-8DE5-44BDC126942D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayerr", "DataLayerr\DataLayerr.csproj", "{D56F2288-9B2C-4FEE-819C-E5967918F860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLayer", "ModelLayer\ModelLayer.csproj", "{73686612-DAC1-4049-8B28-3E5B993A006B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A72D73-F86D-4F70-8DE5-44BDC126942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A72D73-F86D-4F70-8DE5-44BDC126942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A72D73-F86D-4F70-8DE5-44BDC126942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A72D73-F86D-4F70-8DE5-44BDC126942D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56F2288-9B2C-4FEE-819C-E5967918F860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56F2288-9B2C-4FEE-819C-E5967918F860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56F2288-9B2C-4FEE-819C-E5967918F860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56F2288-9B2C-4FEE-819C-E5967918F860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73686612-DAC1-4049-8B28-3E5B993A006B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73686612-DAC1-4049-8B28-3E5B993A006B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73686612-DAC1-4049-8B28-3E5B993A006B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73686612-DAC1-4049-8B28-3E5B993A006B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824ECA72-100D-43EB-ADC3-7E978B231397}
+	EndGlobalSection
+EndGlobal

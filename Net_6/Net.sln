@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net", "Net\Net.csproj", "{8E4BBAC9-10F2-43B8-BC16-F8357707EAE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{2A27166B-54B0-45C7-877D-243ACB69DCDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLayer", "ModelLayer\ModelLayer.csproj", "{2270B142-6EEA-4464-B984-B01FDB091994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4BBAC9-10F2-43B8-BC16-F8357707EAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4BBAC9-10F2-43B8-BC16-F8357707EAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4BBAC9-10F2-43B8-BC16-F8357707EAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4BBAC9-10F2-43B8-BC16-F8357707EAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A27166B-54B0-45C7-877D-243ACB69DCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A27166B-54B0-45C7-877D-243ACB69DCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A27166B-54B0-45C7-877D-243ACB69DCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A27166B-54B0-45C7-877D-243ACB69DCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2270B142-6EEA-4464-B984-B01FDB091994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2270B142-6EEA-4464-B984-B01FDB091994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2270B142-6EEA-4464-B984-B01FDB091994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2270B142-6EEA-4464-B984-B01FDB091994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {248682F4-B4B9-4D4F-8DAB-F488D8683F8E}
+	EndGlobalSection
+EndGlobal
